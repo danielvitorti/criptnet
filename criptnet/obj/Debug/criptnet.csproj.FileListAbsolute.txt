@@ -1,0 +1,5 @@
+C:\projetos\net\criptnet\criptnet\obj\Debug\criptnet.csprojResolveAssemblyReference.cache
+C:\projetos\net\criptnet\criptnet\bin\Debug\criptnet.dll
+C:\projetos\net\criptnet\criptnet\bin\Debug\criptnet.pdb
+C:\projetos\net\criptnet\criptnet\obj\Debug\criptnet.dll
+C:\projetos\net\criptnet\criptnet\obj\Debug\criptnet.pdb
